@@ -29,7 +29,7 @@ Upon conducting more research into the claims made by this article, it became ev
 ## References
 <dr/>
 
-Nicolas and Bromsich, 2014. Temperature trends in Antarctica from 1958 to 2012. [image online] Available at: https://www.climate.gov/news-features/features/antarctica-colder-arctic-it’s-still-losing-ice
+Nicolas and Bromsich, 2014. *Temperature trends in Antarctica from 1958 to 2012.* [image online] Available at: https://www.climate.gov/news-features/features/antarctica-colder-arctic-it’s-still-losing-ice
 <dr/>
 
-The IMBIE team, 2018. Mass balance of the Antarctic Ice Sheet from 1992 to 2017. Nature, 558, pp.219–222. https://doi.org/10.1038/s41586-018-0179-y
+The IMBIE team, 2018. Mass balance of the Antarctic Ice Sheet from 1992 to 2017. *Nature,* 558, pp.219–222. https://doi.org/10.1038/s41586-018-0179-y
